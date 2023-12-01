@@ -1,0 +1,56 @@
+BenchmarksController: missing default helper path benchmarks_helper
+
+
+Processing BenchmarksController#static (for 127.0.0.1 at 2023-12-01 11:39:41) [GET]
+  Parameters: {"action"=>"static", "controller"=>"benchmarks"}
+Rendering benchmarks/static
+Completed in 0.00230 (434 reqs/sec) | Rendering: 0.00139 (60%) | 200 OK [http://localhost/benchmarks/static]
+BenchmarksController: missing default helper path benchmarks_helper
+
+
+Processing BenchmarksController#static (for 127.0.0.1 at 2023-12-01 11:39:43) [GET]
+  Parameters: {"action"=>"static", "controller"=>"benchmarks"}
+Rendering benchmarks/static
+Completed in 0.00093 (1070 reqs/sec) | Rendering: 0.00046 (49%) | 200 OK [http://localhost/benchmarks/static]
+BenchmarksController: missing default helper path benchmarks_helper
+
+
+Processing BenchmarksController#static (for 127.0.0.1 at 2023-12-01 11:39:44) [GET]
+  Parameters: {"action"=>"static", "controller"=>"benchmarks"}
+Rendering benchmarks/static
+Completed in 0.00076 (1318 reqs/sec) | Rendering: 0.00026 (33%) | 200 OK [http://localhost/benchmarks/static]
+BenchmarksController: missing default helper path benchmarks_helper
+
+
+Processing BenchmarksController#static (for 127.0.0.1 at 2023-12-01 11:39:45) [GET]
+  Parameters: {"action"=>"static", "controller"=>"benchmarks"}
+Rendering benchmarks/static
+Completed in 0.00065 (1535 reqs/sec) | Rendering: 0.00032 (49%) | 200 OK [http://localhost/benchmarks/static]
+BenchmarksController: missing default helper path benchmarks_helper
+
+
+Processing BenchmarksController#static (for 127.0.0.1 at 2023-12-01 11:39:46) [GET]
+  Parameters: {"action"=>"static", "controller"=>"benchmarks"}
+Rendering benchmarks/static
+Completed in 0.00056 (1770 reqs/sec) | Rendering: 0.00024 (41%) | 200 OK [http://localhost/benchmarks/static]
+BenchmarksController: missing default helper path benchmarks_helper
+
+
+Processing BenchmarksController#static (for 127.0.0.1 at 2023-12-01 11:39:46) [GET]
+  Parameters: {"action"=>"static", "controller"=>"benchmarks"}
+Rendering benchmarks/static
+Completed in 0.00088 (1133 reqs/sec) | Rendering: 0.00044 (49%) | 200 OK [http://localhost/benchmarks/static]
+BenchmarksController: missing default helper path benchmarks_helper
+
+
+Processing BenchmarksController#static (for 127.0.0.1 at 2023-12-01 11:39:48) [GET]
+  Parameters: {"action"=>"static", "controller"=>"benchmarks"}
+Rendering benchmarks/static
+Completed in 0.00086 (1157 reqs/sec) | Rendering: 0.00043 (49%) | 200 OK [http://localhost/benchmarks/static]
+BenchmarksController: missing default helper path benchmarks_helper
+
+
+Processing BenchmarksController#static (for 127.0.0.1 at 2023-12-01 11:39:49) [GET]
+  Parameters: {"action"=>"static", "controller"=>"benchmarks"}
+Rendering benchmarks/static
+Completed in 0.00072 (1385 reqs/sec) | Rendering: 0.00035 (48%) | 200 OK [http://localhost/benchmarks/static]
